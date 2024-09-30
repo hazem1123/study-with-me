@@ -1,0 +1,57 @@
+.hee {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #699a69; 
+
+  }
+  .btn {
+    background-color:#FFFF;
+    border: 0px;
+    border-radius: 30%;
+    margin: 3px;
+    padding: 10px;
+    height: 35px;
+  }
+  .container{
+
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+margin-top: 10%;
+  }
+  .back{
+   background-color: #76ac88;
+   margin: 10px;
+   border-radius: 25%;
+width: 400px;
+height: 400px;
+display: flex;
+flex-direction: column;
+
+justify-content: center;
+align-items: center;
+font-weight: bolder;
+
+  }
+  .main{
+color:white;    
+font-size: 110px;
+padding: 0px;
+  }
+  
+#hh{
+ padding-bottom: 3px;
+}
+p{
+  display: inline;
+}
+#btn{
+  height: 250px
+}
+#words{
+display: block;
+}
