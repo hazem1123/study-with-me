@@ -63,9 +63,9 @@ done.onclick=('click', function(){
 dallete.onclick=function(){
   words.textContent=''
 }
-if(value2==0){
+if(value2==0&&value==0){
   value2=49
 value=60
- minut.innerHTML='50'
- second.innerHTML='00'
+ minut.innerHTML=value2
+ second.innerHTML=value
 }
